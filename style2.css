@@ -1,0 +1,114 @@
+/* body */
+body {
+    background-color: #F8F9F9;
+    margin: 0;
+}
+
+/* 標題1*/
+h1 {
+    font-size: 3em;
+    color: #2f4f4f;
+    text-align: center;
+}
+
+/* 選單 */
+.navigation ul {
+    background-color: #6599ba;
+    margin: 0;
+    padding: 12px;
+    text-align: center;
+}
+.navigation ul li {
+    list-style-type: none;
+    display: inline;
+    margin: 0 8px;
+}
+.navigation ul li a {
+    color: #ffffff;
+    text-decoration: none;
+}
+.navigation ul li a:hover {
+    color: #ffffff;
+    text-decoration: underline;
+}
+
+/* 主視覺 */
+.mainvisual {
+    background-color: #fefed6;
+    border-bottom: solid 3px #000000;
+}
+.mainvisual img {
+    display: block;
+    margin: 0 auto;
+    max-width: 1000%;
+    height: auto;
+}
+
+/* article */
+article {
+    padding: 32px 16px;
+}
+
+/* 背景色・文字色 */
+#profile {
+    background-color: #dfd013;
+    color: #ffffff;
+}
+
+/* 邊界設定 */
+
+#concert {
+    max-width: 800px;
+    margin: 0 auto 48px;
+}
+
+/* section */
+section {
+    margin: 16px 0;
+}
+
+
+/* 標題23 */
+h2 {
+    text-align: center;
+}
+
+h3 {
+    border-left: solid 6px #dfd013;
+    padding-left: 6px;
+}
+
+
+/* 聯絡資訊 */
+.information {
+    margin: 0 0 24px;
+    overflow: hidden;
+}
+.information iframe {
+    float: left;
+    margin: 0 16px 0 0;
+}
+.information p {
+    margin: 0 0 0.5em;
+}
+.information p {
+    margin: 0;
+}
+
+
+/* 回頁首 */
+.pagetop {
+    text-align: right;
+}
+
+/* 著作權 */
+.copyright {
+    border-top: solid 3px #000000;
+    text-align: center;
+}
+
+
+/* 著作 */
+ol li {
+    list-style-type: upper-roman;
+}
